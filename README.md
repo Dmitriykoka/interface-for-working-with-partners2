@@ -1,0 +1,1 @@
+- [Посмотреть результат можно тут](https://dmitriykoka.github.io/interface-for-working-with-partners2/)
